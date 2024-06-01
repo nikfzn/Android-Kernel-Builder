@@ -1,11 +1,11 @@
 [  {
     "kernelSource": {
-      "name": "kernel_samsung_b2q",
-      "repo": "https://github.com/HyperRamzey/kernel_samsung_b2q",
+      "name": "kernel_judau",
+      "repo": "https://github.com/HyperRamzey/kernel-sharp-Aquos-r6",
       "branch": "main",
-      "device": "b2q_eur_openx"
+      "device": "judau_QGKI"
     },
-    "withKernelSU": true,
+    "withKernelSU": false,
     "toolchains": [
       {
         "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",
