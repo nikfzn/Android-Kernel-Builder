@@ -3,7 +3,7 @@
       "name": "kernel_judau",
       "repo": "https://github.com/HyperRamzey/kernel-sharp-Aquos-r6",
       "branch": "main",
-      "device": "judau_QGKI"
+      "device": "vendor/judau_QGKI"
     },
     "withKernelSU": false,
     "toolchains": [
