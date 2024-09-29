@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "kernel_judau",
-      "repo": "https://github.com/HyperRamzey/kernel-sharp-Aquos-r6",
-      "branch": "main",
-      "device": "vendor/judau_QGKI"
+      "name": "realme-kernel-opensource",
+      "repo": "https://github.com/realme-kernel-opensource/realme_GTneo5-AndroidT-kernel-source",
+      "branch": "lineage-21.0",
+      "device": "taro"
     },
     "withKernelSU": false,
     "toolchains": [
